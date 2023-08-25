@@ -15,6 +15,6 @@ Views predominantly originate from the United States (1,354,450) and India (1,15
 *In summary,* this analysis delved into a limited set of metrics. Different metrics may matter based on a creator's audience, subject, and goals. Expect potential updates and improvements in the future as I continue exploring YouTube analytics.
 
 
-Find Ken Jee's YouTube channel [here](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg) 📺. For a visual representation of this project, check out the [here](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg](https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3)https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3) 📊.
+Find Ken Jee's YouTube channel [here](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg) 📺. For a visual representation of this project, check out the [here](https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3) 📊.
 
 ![pict](Picture/Ken_Jee's_Youtube_Channel_Report_page.jpg)
