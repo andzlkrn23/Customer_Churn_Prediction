@@ -1,7 +1,6 @@
 # YouTube-Channel-Data-Driven-Sponsorship-Dashboard
 
-![pict](./Pictures/Ken_Jee's_Youtube_Channel_Report_page.png)
-
+![pict](Picture/Ken_Jee's_Youtube_Channel_Report_page.jpg)
 
 2020 marked a significant year for Ken's YouTube journey, with an impressive 113 video uploads. However, this number decreased to 47 in 2021. A closer examination of video metrics reveals intriguing patterns.
 
@@ -17,4 +16,4 @@ Views predominantly originate from the United States (1,354,450) and India (1,15
 
 Huge thanks to Ken Jee 👌 for providing the data and inspiring this project. Your videos have aided countless enthusiasts in navigating the Data Science journey. Keep up the fantastic work!
 
-Find Ken Jee's YouTube channel [here](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg) 📺. For a visual representation of this project, check out the [Google Looker Dashboard](link-to-google-looker](https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3)https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3) 📊.
+Find Ken Jee's YouTube channel [here](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg) 📺. For a visual representation of this project, check out the [here](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg](https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3)https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3) 📊.
